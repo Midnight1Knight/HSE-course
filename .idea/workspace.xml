@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42ea388a-1cf7-41a0-8d66-0bf385cd433d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Q3YR9Lg7SULiZ9Y1DOVTizGq1o" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/SixthWeek" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Matrix">
+    <configuration name="Matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="First-Course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NinethWeek" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NinethWeek/Matrix.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Task11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="First-Course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EighthWeek" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EighthWeek/Task11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Task12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="First-Course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EighthWeek" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EighthWeek/Task12.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Task13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="First-Course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EighthWeek" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EighthWeek/Task13.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Task2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="First-Course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NinethWeek" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NinethWeek/Task2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Matrix" />
+        <item itemvalue="Python.Task2" />
+        <item itemvalue="Python.Task13" />
+        <item itemvalue="Python.Task12" />
+        <item itemvalue="Python.Task11" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42ea388a-1cf7-41a0-8d66-0bf385cd433d" name="Default Changelist" comment="" />
+      <created>1567000735597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567000735597</updated>
+      <workItem from="1590496513226" duration="71000" />
+      <workItem from="1590496690537" duration="399000" />
+      <workItem from="1590497353691" duration="426000" />
+      <workItem from="1590497801106" duration="1403000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="591" y="215" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590497377130">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="591" y="215" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1590497377130" />
+    <state x="1382" y="289" width="140" height="535" key="#xdebugger.XInspectDialog" timestamp="1586063656286">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="1382" y="289" width="140" height="535" key="#xdebugger.XInspectDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1586063656286" />
+    <state x="1214" y="298" key="#xdebugger.evaluate" timestamp="1586019045698">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="1214" y="298" key="#xdebugger.evaluate/70.27.1850.1053@70.27.1850.1053" timestamp="1586019045698" />
+    <state width="771" height="506" key="DebuggerActiveHint" timestamp="1586017548562">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="771" height="506" key="DebuggerActiveHint/70.27.1850.1053@70.27.1850.1053" timestamp="1586017548562" />
+    <state x="1095" y="127" width="715" height="853" key="DiffContextDialog" timestamp="1586018800203">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="1095" y="127" width="715" height="853" key="DiffContextDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1586018800203" />
+    <state width="1825" height="210" key="GridCell.Tab.0.bottom" timestamp="1590315653920">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="572" height="145" key="GridCell.Tab.0.bottom/70.27.1210.997@70.27.1210.997" timestamp="1581912913589" />
+    <state width="899" height="286" key="GridCell.Tab.0.bottom/70.27.1844.897@70.27.1844.897" timestamp="1589617483713" />
+    <state width="902" height="210" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1590241768593" />
+    <state width="1825" height="210" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1590315653920" />
+    <state width="1825" height="210" key="GridCell.Tab.0.center" timestamp="1590315653918">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="572" height="145" key="GridCell.Tab.0.center/70.27.1210.997@70.27.1210.997" timestamp="1581912913587" />
+    <state width="899" height="286" key="GridCell.Tab.0.center/70.27.1844.897@70.27.1844.897" timestamp="1589617483711" />
+    <state width="902" height="210" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1590241768592" />
+    <state width="1825" height="210" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1590315653918" />
+    <state width="1825" height="210" key="GridCell.Tab.0.left" timestamp="1590315653917">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="572" height="145" key="GridCell.Tab.0.left/70.27.1210.997@70.27.1210.997" timestamp="1581912913587" />
+    <state width="899" height="286" key="GridCell.Tab.0.left/70.27.1844.897@70.27.1844.897" timestamp="1589617483705" />
+    <state width="902" height="210" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1590241768592" />
+    <state width="1825" height="210" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1590315653917" />
+    <state width="1825" height="210" key="GridCell.Tab.0.right" timestamp="1590315653919">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="572" height="145" key="GridCell.Tab.0.right/70.27.1210.997@70.27.1210.997" timestamp="1581912913588" />
+    <state width="899" height="286" key="GridCell.Tab.0.right/70.27.1844.897@70.27.1844.897" timestamp="1589617483712" />
+    <state width="902" height="210" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1590241768593" />
+    <state width="1825" height="210" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1590315653919" />
+    <state width="902" height="371" key="GridCell.Tab.1.bottom" timestamp="1590172138591">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="902" height="371" key="GridCell.Tab.1.bottom/70.27.1844.897@70.27.1844.897" timestamp="1589176212782" />
+    <state width="902" height="371" key="GridCell.Tab.1.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1590172138591" />
+    <state width="902" height="371" key="GridCell.Tab.1.center" timestamp="1590172138590">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="902" height="371" key="GridCell.Tab.1.center/70.27.1844.897@70.27.1844.897" timestamp="1589176212780" />
+    <state width="902" height="371" key="GridCell.Tab.1.center/70.27.1850.1053@70.27.1850.1053" timestamp="1590172138590" />
+    <state width="902" height="371" key="GridCell.Tab.1.left" timestamp="1590172138589">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="902" height="371" key="GridCell.Tab.1.left/70.27.1844.897@70.27.1844.897" timestamp="1589176212779" />
+    <state width="902" height="371" key="GridCell.Tab.1.left/70.27.1850.1053@70.27.1850.1053" timestamp="1590172138589" />
+    <state width="902" height="371" key="GridCell.Tab.1.right" timestamp="1590172138590">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="902" height="371" key="GridCell.Tab.1.right/70.27.1844.897@70.27.1844.897" timestamp="1589176212781" />
+    <state width="902" height="371" key="GridCell.Tab.1.right/70.27.1850.1053@70.27.1850.1053" timestamp="1590172138590" />
+    <state x="580" y="203" width="1022" height="737" key="SettingsEditor" timestamp="1590497781433">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="898" y="188" width="1022" height="737" key="SettingsEditor/70.27.1850.1053@70.27.1850.1053" timestamp="1585758191331" />
+    <state x="580" y="203" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1590497781433" />
+    <state width="462" height="526" key="XDebugger.FullValuePopup" timestamp="1589223004300">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="462" height="526" key="XDebugger.FullValuePopup/70.27.1850.1053@70.27.1850.1053" timestamp="1589223004300" />
+    <state x="469" y="371" key="com.intellij.ide.util.TipDialog" timestamp="1586235708088">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="331" y="353" key="com.intellij.ide.util.TipDialog/70.27.1210.997@70.27.1210.997" timestamp="1582453413228" />
+    <state x="469" y="371" key="com.intellij.ide.util.TipDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1586235708088" />
+    <state x="935" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1589172215417">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="935" y="257" width="672" height="678" key="search.everywhere.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1589172215417" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FourthWeek/Task13.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FourthWeek/Task14.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FourthWeek/Task15.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FourthWeek/Task17.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FifthWeek/Task7.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FifthWeek/Task9.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FifthWeek/Task17.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FifthWeek/Task18.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FifthWeek/Task20.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FifthWeek/Task22.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FifthWeek/Task23.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FifthWeek/Task24.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FifthWeek/Task27.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FifthWeek/Task28.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FifthWeek/Task29.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FifthWeek/Task30.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FifthWeek/Task34.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SixthWeek/Task1.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SixthWeek/Task1.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SixthWeek/Task2.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SixthWeek/Task4.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SixthWeek/Task6.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SixthWeek/Task6.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SixthWeek/Task7.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SixthWeek/Task10.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SixthWeek/Task11.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SixthWeek/Task12.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SixthWeek/Task13.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SixthWeek/Task14.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SixthWeek/Task15.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SixthWeek/Task17.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SixthWeek/Task18.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SixthWeek/Task19.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SeventhWeek/Task4.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SeventhWeek/Task5.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SeventhWeek/Task9.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SeventhWeek/Task10.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SeventhWeek/Task11.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SeventhWeek/Task12.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SeventhWeek/Task13.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SeventhWeek/Task17.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SeventhWeek/Task19.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SeventhWeek/Task20.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SeventhWeek/Task21.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SeventhWeek/Task22.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SeventhWeek/Task23.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SeventhWeek/Task23.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SeventhWeek/Task24.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SeventhWeek/Task25.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EighthWeek/Task2.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EighthWeek/Task3.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EighthWeek/Task5.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
